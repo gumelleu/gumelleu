@@ -13,6 +13,23 @@ I'm Gustavo — Building native iOS applications with Swift, SwiftUI and UIKit.
 
 </div>
 
+<details>
+<summary align="center"><div align="center"><img src="folder-sticker.png" width="80"/><br>Ver mais</div></summary>
+
+<div align="center">
+
+<br>
+
+### Languages & Technologies
+
+<br>
+
+[![Skills](https://skillicons.dev/icons?i=swift,html,css,java,js,python,figma)](https://skillicons.dev)
+
+</div>
+
+</details>
+
 <div align="center"> 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=footer" /> 
 </div>

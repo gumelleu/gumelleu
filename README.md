@@ -5,7 +5,7 @@
 <div align="center">
 
 <img src="hello-sticker.png" width="300"/><br>
-I'm Gustavo — crafting native apps with Swift, SwiftUI and UIKit.
+I'm Gustavo — Building native iOS applications with Swift, SwiftUI and UIKit.
 
 <br>
 

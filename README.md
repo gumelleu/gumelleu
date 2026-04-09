@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/gumelleu/gumelleu/main/gengar.gif" width="150"/><br>
+<img src="https://i.pinimg.com/originals/4f/d0/c0/4fd0c049c173c9beb5a0101a84deb6f9.gif" width="150"/><br>
 I'm Gustavo — Building native iOS applications with Swift, SwiftUI and UIKit.
 
 <br>

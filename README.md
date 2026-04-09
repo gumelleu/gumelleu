@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=180&section=header&text=Gustavo%20Melleu&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=%EF%A3%BF%20iOS%20Developer&descAlignY=58&descSize=16&descColor=ffddcc" /> 
 </div>
 
-<img src="hello-sticker.png" width="100" align="left"/>
+<img src="hello-sticker.png" width="160" align="left"/>
 
 <div align="center">
 

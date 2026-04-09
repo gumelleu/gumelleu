@@ -3,10 +3,8 @@
 </div>
 
 <div align="center">
-
 <img src="hello-sticker.png" width="300"/><br>
 I'm Gustavo — Building native iOS applications with Swift, SwiftUI and UIKit.
-
 <br>
 
 <a href="https://www.linkedin.com/in/gustavo-melleu-218533231/"><img src="linkedin-button.svg"/></a> <a href="https://gustavo-melleu-portfolio.vercel.app"><img src="portfolio-button.svg"/></a>

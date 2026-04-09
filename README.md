@@ -1,5 +1,5 @@
 <div align="center"> 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=C084FC,7C3AED,4C1D95&height=180&section=header&text=Gustavo%20Melleu&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=%EF%A3%BF%20iOS%20Developer&descAlignY=58&descSize=16&descColor=ffddcc" /> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=B06AB3,4568DC&height=180&section=header&text=Gustavo%20Melleu&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=%EF%A3%BF%20iOS%20Developer&descAlignY=58&descSize=16&descColor=ffddcc" /> 
 </div>
 
 <div align="center">
@@ -13,5 +13,5 @@ Building native iOS applications with Swift, SwiftUI and UIKit.
 </div>
 
 <div align="center"> 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=C084FC,7C3AED,4C1D95&height=100&section=footer" /> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=B06AB3,4568DC&height=100&section=footer" /> 
 </div>

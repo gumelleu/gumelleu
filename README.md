@@ -14,7 +14,7 @@ I'm Gustavo — Building native iOS applications with Swift, SwiftUI and UIKit.
 </div>
 
 <details>
-<summary>Ver mais</summary>
+<summary align="center">Ver mais</summary>
 
 <div align="center">
 

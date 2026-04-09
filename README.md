@@ -4,8 +4,7 @@
 
 <div align="center">
 
-<img src="hello-sticker.png" width="250"/>
-
+<img src="hello-sticker.png" width="200"/>
 Building native iOS applications with Swift, SwiftUI and UIKit.
 
 <br>

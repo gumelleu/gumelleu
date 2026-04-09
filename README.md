@@ -14,7 +14,7 @@ I'm Gustavo — Building native iOS applications with Swift, SwiftUI and UIKit.
 </div>
 
 <details>
-<summary align="center"><div align="center"><img src="folder-sticker.png" width="80"/><br>Ver mais</div></summary>
+<summary><div align="center"><img src="folder-sticker.png" width="80"/></div></summary>
 
 <div align="center">
 

@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://i.pinimg.com/originals/4f/d0/c0/4fd0c049c173c9beb5a0101a84deb6f9.gif" width="150"/><br>
+<img src="hello-sticker.png" width="300"/><br>
 I'm Gustavo — Building native iOS applications with Swift, SwiftUI and UIKit.
 
 <br>

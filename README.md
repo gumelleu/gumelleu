@@ -8,7 +8,7 @@ Building native iOS applications with Swift, SwiftUI and UIKit.
 
 <br>
 
-<img src="https://media.giphy.com/media/EJwx387GEmm1q/giphy.gif" width="150" height="150"/> &nbsp;&nbsp;&nbsp; <img src="https://media.giphy.com/media/5xaOcLIcepsInWhY1dC/giphy.gif" width="150" height="150"/>
+<img src="https://giffiles.alphacoders.com/139/13940.gif" width="150" height="150"/>
 
 <br><br>
 

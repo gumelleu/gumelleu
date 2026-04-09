@@ -30,6 +30,10 @@ I'm Gustavo Melleu — Building native iOS applications with Swift, SwiftUI and 
 
 </details>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/gumelleu/gumelleu/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+</div>
+
 <div align="center"> 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=footer" /> 
 </div>

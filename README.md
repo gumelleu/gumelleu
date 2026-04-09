@@ -17,7 +17,15 @@ Building native iOS applications with Swift, SwiftUI and UIKit.
 
 <br>
 
-[![Skills](https://skillicons.dev/icons?i=swift,html,css,java,js,python,figma)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=swift,html,css,java)](https://skillicons.dev)
+
+<details>
+  <summary>Ver mais</summary>
+  <br>
+
+  [![Skills](https://skillicons.dev/icons?i=js,python,figma)](https://skillicons.dev)
+
+</details>
 
 </div>
 

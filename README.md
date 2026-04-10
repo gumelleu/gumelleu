@@ -19,6 +19,18 @@
 
 <br>
 
+### About Me
+
+<br>
+
+🎓 Computer Science student at **PUCRS**
+<br>
+🍎 iOS Developer at **Apple Developer Academy** — Porto Alegre
+<br>
+📍 Porto Alegre, Brazil
+
+<br>
+
 ### Languages & Technologies
 
 <br>

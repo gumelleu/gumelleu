@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=8E54E9&width=600&size=21&center=true&lines=Building+native+iOS+applications;Swift+%7C+SwiftUI+%7C+UIKit;Always+learning+new+things+%F0%9F%9A%80" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=8E54E9&width=600&size=21&center=true&lines=I+am+from+Brazil;I'm+building+native+iOS+applications;I'm+a+student+of+Computer+Science;Always+learning+new+things" alt="Typing SVG"/>
 
 <br>
 
